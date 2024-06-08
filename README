@@ -1,0 +1,4 @@
+=== decode with libav ===
+
+video transport: opengl and glfw
+audio transport: pulseaudio simple
